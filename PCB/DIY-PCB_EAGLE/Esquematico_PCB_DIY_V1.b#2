@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1183,79 +1183,6 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 </package>
 </packages>
 </library>
-<library name="con-lstb">
-<description>&lt;b&gt;Pin Headers&lt;/b&gt;&lt;p&gt;
-Naming:&lt;p&gt;
-MA = male&lt;p&gt;
-# contacts - # rows&lt;p&gt;
-W = angled&lt;p&gt;
-&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
-<packages>
-<package name="MA04-1">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<wire x1="-4.445" y1="1.27" x2="-3.175" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="-3.175" y1="1.27" x2="-2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="-0.635" x2="-3.175" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="0.635" x2="-1.905" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="1.27" x2="-0.635" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="1.27" x2="0" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="0" y1="-0.635" x2="-0.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="-1.27" x2="-1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="-1.27" x2="-2.54" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-5.08" y1="0.635" x2="-5.08" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-4.445" y1="1.27" x2="-5.08" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-5.08" y1="-0.635" x2="-4.445" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-3.175" y1="-1.27" x2="-4.445" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="0" y1="0.635" x2="0.635" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="1.27" x2="1.905" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="1.27" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="-0.635" x2="1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="-1.27" x2="0.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="-1.27" x2="0" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="3.175" y1="1.27" x2="4.445" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="4.445" y1="1.27" x2="5.08" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="5.08" y1="0.635" x2="5.08" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="5.08" y1="-0.635" x2="4.445" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="3.175" y1="1.27" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="-0.635" x2="3.175" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="4.445" y1="-1.27" x2="3.175" y2="-1.27" width="0.1524" layer="21"/>
-<pad name="1" x="-3.81" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="2" x="-1.27" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="3" x="1.27" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="4" x="3.81" y="0" drill="1.016" shape="long" rot="R90"/>
-<text x="-5.08" y="1.651" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-6.223" y="-0.635" size="1.27" layer="21" ratio="10">1</text>
-<text x="0.635" y="1.651" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
-<text x="5.334" y="-0.635" size="1.27" layer="21" ratio="10">4</text>
-<rectangle x1="-1.524" y1="-0.254" x2="-1.016" y2="0.254" layer="51"/>
-<rectangle x1="-4.064" y1="-0.254" x2="-3.556" y2="0.254" layer="51"/>
-<rectangle x1="1.016" y1="-0.254" x2="1.524" y2="0.254" layer="51"/>
-<rectangle x1="3.556" y1="-0.254" x2="4.064" y2="0.254" layer="51"/>
-</package>
-</packages>
-</library>
-<library name="zetex">
-<description>&lt;b&gt;Zetex Power MOS FETs, Bridges, Diodes&lt;/b&gt;&lt;p&gt;
-http://www.zetex.com&lt;p&gt;
-&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
-<packages>
-<package name="SOT-23">
-<description>&lt;b&gt;Small Outline Transistor&lt;/b&gt;</description>
-<wire x1="-1.4224" y1="0.381" x2="1.4732" y2="0.381" width="0.1524" layer="21"/>
-<wire x1="1.4732" y1="0.381" x2="1.4732" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="1.4732" y1="-0.381" x2="-1.4224" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-1.4224" y1="-0.381" x2="-1.4224" y2="0.381" width="0.1524" layer="21"/>
-<smd name="3" x="0.9906" y="1.016" dx="0.7874" dy="0.889" layer="1"/>
-<smd name="2" x="-0.9398" y="1.016" dx="0.7874" dy="0.889" layer="1"/>
-<smd name="1" x="0.0254" y="-1.016" dx="0.7874" dy="0.889" layer="1"/>
-<text x="-1.397" y="1.778" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
-<text x="-1.397" y="3.302" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<rectangle x1="0.7874" y1="0.4318" x2="1.1684" y2="0.9398" layer="51"/>
-<rectangle x1="-1.143" y1="0.4318" x2="-0.762" y2="0.9398" layer="51"/>
-<rectangle x1="-0.1778" y1="-0.9398" x2="0.2032" y2="-0.4318" layer="51"/>
-</package>
-</packages>
-</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1447,41 +1374,6 @@ design rules under a new name.</description>
 <elements>
 <element name="R1" library="rcl" package="R0805" value="" x="6.35" y="76.2"/>
 <element name="U1" library="esp8266modules" package="ESP12E-SMD" value="" x="20.32" y="72.39"/>
-<element name="R2" library="rcl" package="R0805" value="" x="2.54" y="-3.81"/>
-<element name="SV1" library="con-lstb" package="MA04-1" value="" x="7.62" y="-8.89">
-<attribute name="OC_NEWARK" value="unknown" x="7.62" y="-8.89" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="7.62" y="-8.89" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="" x="7.62" y="-8.89" size="1.778" layer="27" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="7.62" y="-8.89" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R3" library="rcl" package="R0805" value="" x="2.54" y="-39.37"/>
-<element name="R4" library="rcl" package="R0805" value="" x="2.54" y="-44.45"/>
-<element name="R5" library="rcl" package="R0805" value="" x="2.54" y="-49.53"/>
-<element name="R6" library="rcl" package="R0805" value="" x="2.54" y="-54.61"/>
-<element name="T1" library="zetex" package="SOT-23" value="" x="2.54" y="-60.96">
-<attribute name="OC_NEWARK" value="unknown" x="2.54" y="-60.96" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="2.54" y="-60.96" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="" x="2.54" y="-60.96" size="1.778" layer="27" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="2.54" y="-60.96" size="1.778" layer="27" display="off"/>
-</element>
-<element name="T2" library="zetex" package="SOT-23" value="" x="2.54" y="-68.58">
-<attribute name="OC_NEWARK" value="unknown" x="2.54" y="-68.58" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="2.54" y="-68.58" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="" x="2.54" y="-68.58" size="1.778" layer="27" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="2.54" y="-68.58" size="1.778" layer="27" display="off"/>
-</element>
-<element name="T3" library="zetex" package="SOT-23" value="" x="2.54" y="-76.2">
-<attribute name="OC_NEWARK" value="unknown" x="2.54" y="-76.2" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="2.54" y="-76.2" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="" x="2.54" y="-76.2" size="1.778" layer="27" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="2.54" y="-76.2" size="1.778" layer="27" display="off"/>
-</element>
-<element name="T4" library="zetex" package="SOT-23" value="" x="2.54" y="-83.82">
-<attribute name="OC_NEWARK" value="unknown" x="2.54" y="-83.82" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="2.54" y="-83.82" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="" x="2.54" y="-83.82" size="1.778" layer="27" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="2.54" y="-83.82" size="1.778" layer="27" display="off"/>
-</element>
 </elements>
 <signals>
 <signal name="N$1">
@@ -1494,15 +1386,7 @@ design rules under a new name.</description>
 <signal name="VCC">
 <contactref element="R1" pad="2"/>
 <contactref element="U1" pad="VCC"/>
-<contactref element="T1" pad="1"/>
-<contactref element="T2" pad="1"/>
-<contactref element="T3" pad="1"/>
-<contactref element="T4" pad="1"/>
-<wire x1="12.02" y1="64.19" x2="7.3" y2="76.2" width="0" layer="19" extent="1-1"/>
-<wire x1="2.5654" y1="-61.976" x2="12.02" y2="64.19" width="0" layer="19" extent="1-1"/>
-<wire x1="2.5654" y1="-69.596" x2="2.5654" y2="-61.976" width="0" layer="19" extent="1-1"/>
-<wire x1="2.5654" y1="-77.216" x2="2.5654" y2="-69.596" width="0" layer="19" extent="1-1"/>
-<wire x1="2.5654" y1="-84.836" x2="2.5654" y2="-77.216" width="0" layer="19" extent="1-1"/>
+<wire x1="7.3" y1="76.2" x2="12.02" y2="64.19" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="ADC">
 <contactref element="U1" pad="ADC"/>
@@ -1521,75 +1405,27 @@ design rules under a new name.</description>
 </signal>
 <signal name="TX">
 <contactref element="U1" pad="TXD0"/>
-<contactref element="SV1" pad="4"/>
-<wire x1="11.43" y1="-8.89" x2="28.42" y2="78.19" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="RX">
 <contactref element="U1" pad="RXD0"/>
-<contactref element="SV1" pad="3"/>
-<wire x1="8.89" y1="-8.89" x2="28.42" y2="76.19" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="PWM0">
 <contactref element="U1" pad="GPIO5"/>
-<contactref element="R3" pad="1"/>
-<wire x1="1.59" y1="-39.37" x2="28.42" y2="74.19" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="PWM1">
 <contactref element="U1" pad="GPIO4"/>
-<contactref element="R4" pad="1"/>
-<wire x1="1.59" y1="-44.45" x2="28.42" y2="72.19" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BOOT">
 <contactref element="U1" pad="GPIO0"/>
-<contactref element="R2" pad="2"/>
-<contactref element="SV1" pad="2"/>
-<wire x1="3.49" y1="-3.81" x2="28.42" y2="70.19" width="0" layer="19" extent="1-1"/>
-<wire x1="6.35" y1="-8.89" x2="3.49" y2="-3.81" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="PWM2">
 <contactref element="U1" pad="GPIO2"/>
-<contactref element="R5" pad="1"/>
-<wire x1="1.59" y1="-49.53" x2="28.42" y2="68.19" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="PWM3">
 <contactref element="U1" pad="GPIO15"/>
-<contactref element="R6" pad="1"/>
-<wire x1="1.59" y1="-54.61" x2="28.42" y2="66.19" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="GND">
 <contactref element="U1" pad="GND"/>
-<contactref element="R2" pad="1"/>
-<contactref element="SV1" pad="1"/>
-<contactref element="T1" pad="2"/>
-<contactref element="T2" pad="2"/>
-<contactref element="T3" pad="2"/>
-<contactref element="T4" pad="2"/>
-<wire x1="1.59" y1="-3.81" x2="28.42" y2="64.19" width="0" layer="19" extent="1-1"/>
-<wire x1="3.81" y1="-8.89" x2="1.59" y2="-3.81" width="0" layer="19" extent="1-1"/>
-<wire x1="1.6002" y1="-59.944" x2="3.81" y2="-8.89" width="0" layer="19" extent="1-1"/>
-<wire x1="1.6002" y1="-67.564" x2="1.6002" y2="-59.944" width="0" layer="19" extent="1-1"/>
-<wire x1="1.6002" y1="-75.184" x2="1.6002" y2="-67.564" width="0" layer="19" extent="1-1"/>
-<wire x1="1.6002" y1="-82.804" x2="1.6002" y2="-75.184" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$2">
-<contactref element="R3" pad="2"/>
-<contactref element="T1" pad="3"/>
-<wire x1="3.49" y1="-39.37" x2="3.5306" y2="-59.944" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$4">
-<contactref element="R4" pad="2"/>
-<contactref element="T2" pad="3"/>
-<wire x1="3.49" y1="-44.45" x2="3.5306" y2="-67.564" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$5">
-<contactref element="R5" pad="2"/>
-<contactref element="T3" pad="3"/>
-<wire x1="3.49" y1="-49.53" x2="3.5306" y2="-75.184" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$6">
-<contactref element="R6" pad="2"/>
-<contactref element="T4" pad="3"/>
-<wire x1="3.49" y1="-54.61" x2="3.5306" y2="-82.804" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 </board>
