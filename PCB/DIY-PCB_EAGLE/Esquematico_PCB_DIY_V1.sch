@@ -6609,7 +6609,7 @@ SMD power inductor</description>
 </classes>
 <parts>
 <part name="U1" library="esp8266modules" deviceset="ESP12E" device="SMD"/>
-<part name="R1" library="rcl" deviceset="R-US_" device="R0805"/>
+<part name="R1" library="rcl" deviceset="R-US_" device="R0805" value="10K"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="R2" library="rcl" deviceset="R-US_" device="R0805"/>
@@ -6620,18 +6620,18 @@ SMD power inductor</description>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="R3" library="rcl" deviceset="R-US_" device="R0805"/>
-<part name="R4" library="rcl" deviceset="R-US_" device="R0805"/>
-<part name="R5" library="rcl" deviceset="R-US_" device="R0805"/>
-<part name="R6" library="rcl" deviceset="R-US_" device="R0805"/>
+<part name="R3" library="rcl" deviceset="R-US_" device="R0805" value="10"/>
+<part name="R4" library="rcl" deviceset="R-US_" device="R0805" value="10"/>
+<part name="R5" library="rcl" deviceset="R-US_" device="R0805" value="10"/>
+<part name="R6" library="rcl" deviceset="R-US_" device="R0805" value="10"/>
 <part name="T1" library="zetex" deviceset="NMOSSOT23" device=""/>
 <part name="T2" library="zetex" deviceset="NMOSSOT23" device=""/>
 <part name="T3" library="zetex" deviceset="NMOSSOT23" device=""/>
 <part name="T4" library="zetex" deviceset="NMOSSOT23" device=""/>
-<part name="R7" library="rcl" deviceset="R-US_" device="R0805"/>
-<part name="R8" library="rcl" deviceset="R-US_" device="R0805"/>
-<part name="R9" library="rcl" deviceset="R-US_" device="R0805"/>
-<part name="R10" library="rcl" deviceset="R-US_" device="R0805"/>
+<part name="R7" library="rcl" deviceset="R-US_" device="R0805" value="10K"/>
+<part name="R8" library="rcl" deviceset="R-US_" device="R0805" value="10K"/>
+<part name="R9" library="rcl" deviceset="R-US_" device="R0805" value="10K"/>
+<part name="R10" library="rcl" deviceset="R-US_" device="R0805" value="10K"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
@@ -7258,6 +7258,12 @@ SMD power inductor</description>
 <pinref part="C4" gate="G$1" pin="1"/>
 <wire x1="30.48" y1="10.16" x2="15.24" y2="10.16" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="10.16" x2="15.24" y2="-2.54" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$12" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="INT"/>
+<wire x1="50.8" y1="0" x2="63.5" y2="0" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
