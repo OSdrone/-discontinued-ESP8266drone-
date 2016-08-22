@@ -49,11 +49,7 @@
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<layer number="90" name="Modules" color="5" fill="1" visible="no" active="no"/>
-=======
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="no" active="no"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="no"/>
@@ -63,52 +59,6 @@
 <layer number="97" name="Info" color="7" fill="1" visible="no" active="no"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<layer number="101" name="Patch_Top" color="12" fill="4" visible="yes" active="yes"/>
-<layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="103" name="tMap" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="104" name="Name" color="16" fill="1" visible="yes" active="yes"/>
-<layer number="105" name="tPlate" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="106" name="bPlate" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="107" name="Crop" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="108" name="fp8" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="109" name="fp9" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="110" name="fp0" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="111" name="LPC17xx" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="112" name="tSilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="116" name="Patch_BOT" color="9" fill="4" visible="yes" active="yes"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="123" name="tTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="124" name="bTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="125" name="_tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="127" name="_tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="128" name="_bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="131" name="tAdjust" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="132" name="bAdjust" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="151" name="HeatSink" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="152" name="_bDocu" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="199" name="Contour" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="yes" active="yes"/>
-<layer number="201" name="201bmp" color="2" fill="10" visible="yes" active="yes"/>
-<layer number="202" name="202bmp" color="3" fill="10" visible="yes" active="yes"/>
-<layer number="203" name="203bmp" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="204" name="204bmp" color="5" fill="10" visible="yes" active="yes"/>
-<layer number="205" name="205bmp" color="6" fill="10" visible="yes" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="10" visible="yes" active="yes"/>
-<layer number="207" name="207bmp" color="8" fill="10" visible="yes" active="yes"/>
-<layer number="208" name="208bmp" color="9" fill="10" visible="yes" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="211" name="211bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="212" name="212bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="213" name="213bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="214" name="214bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="215" name="215bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="216" name="216bmp" color="7" fill="1" visible="yes" active="yes"/>
-=======
 <layer number="101" name="Patch_Top" color="12" fill="4" visible="no" active="yes"/>
 <layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
 <layer number="103" name="tMap" color="7" fill="1" visible="no" active="yes"/>
@@ -139,7 +89,6 @@
 <layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="216" name="216bmp" color="7" fill="1" visible="no" active="yes"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 <layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
 <layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
 <layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
@@ -148,17 +97,9 @@
 <layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
 <layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<layer number="248" name="Housing" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="249" name="Edge" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
-<layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
-<layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
-=======
 <layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
 <layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
 <layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 </layers>
 <board>
 <plain>
@@ -1300,140 +1241,6 @@ Metric Code Size 2012</description>
 </package>
 </packages>
 </library>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<library name="GeekAmmo">
-<description>&lt;h3&gt;GeekAmmo  Library&lt;/h3&gt;
-
-These are parts used by the GeekAmmo company (now part of SparkFun Electronics)!
-
- If you enjoy using this library, please buy one of our products at www.sparkfun.com.
-&lt;br&gt;&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt;Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/
-&lt;br&gt;&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-<package name="SOT23-3">
-<wire x1="-1.4224" y1="-0.3" x2="-1.4224" y2="0.6604" width="0.1524" layer="21"/>
-<wire x1="-1.4224" y1="0.6604" x2="-0.6576" y2="0.6604" width="0.1524" layer="21"/>
-<wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.3" width="0.1524" layer="21"/>
-<wire x1="0.6326" y1="0.6604" x2="1.4224" y2="0.6604" width="0.1524" layer="21"/>
-<smd name="3" x="0" y="1" dx="0.8" dy="0.9" layer="1"/>
-<smd name="2" x="0.95" y="-1" dx="0.8" dy="0.9" layer="1"/>
-<smd name="1" x="-0.95" y="-1" dx="0.8" dy="0.9" layer="1"/>
-<text x="-1.905" y="1.905" size="1.27" layer="25">&gt;NAME</text>
-<text x="-1.905" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
-</package>
-</packages>
-</library>
-<library name="invensense">
-<packages>
-<package name="QFN.24.4X4">
-<wire x1="-2" y1="2" x2="2" y2="2" width="0.1" layer="21"/>
-<wire x1="2" y1="2" x2="2" y2="-2" width="0.1" layer="21"/>
-<wire x1="2" y1="-2" x2="-2" y2="-2" width="0.1" layer="21"/>
-<wire x1="-2" y1="-2" x2="-2" y2="2" width="0.1" layer="21"/>
-<rectangle x1="-2" y1="-1.375" x2="-1.6" y2="-1.125" layer="21"/>
-<rectangle x1="-2" y1="-0.875" x2="-1.6" y2="-0.625" layer="21"/>
-<rectangle x1="-2" y1="-0.375" x2="-1.6" y2="-0.125" layer="21"/>
-<rectangle x1="-2" y1="0.125" x2="-1.6" y2="0.375" layer="21"/>
-<rectangle x1="-2" y1="0.625" x2="-1.6" y2="0.875" layer="21"/>
-<rectangle x1="-2" y1="1.125" x2="-1.6" y2="1.375" layer="21"/>
-<rectangle x1="-1.375" y1="1.6" x2="-1.125" y2="2" layer="21"/>
-<rectangle x1="-0.875" y1="1.6" x2="-0.625" y2="2" layer="21"/>
-<rectangle x1="-0.375" y1="1.6" x2="-0.125" y2="2" layer="21"/>
-<rectangle x1="0.125" y1="1.6" x2="0.375" y2="2" layer="21"/>
-<rectangle x1="0.625" y1="1.6" x2="0.875" y2="2" layer="21"/>
-<rectangle x1="1.125" y1="1.6" x2="1.375" y2="2" layer="21"/>
-<rectangle x1="1.6" y1="-1.375" x2="2" y2="-1.125" layer="21"/>
-<rectangle x1="1.6" y1="-0.875" x2="2" y2="-0.625" layer="21"/>
-<rectangle x1="1.6" y1="-0.375" x2="2" y2="-0.125" layer="21"/>
-<rectangle x1="1.6" y1="0.125" x2="2" y2="0.375" layer="21"/>
-<rectangle x1="1.6" y1="0.625" x2="2" y2="0.875" layer="21"/>
-<rectangle x1="1.6" y1="1.125" x2="2" y2="1.375" layer="21"/>
-<rectangle x1="-1.375" y1="-2" x2="-1.125" y2="-1.6" layer="21"/>
-<rectangle x1="-0.875" y1="-2" x2="-0.625" y2="-1.6" layer="21"/>
-<rectangle x1="-0.375" y1="-2" x2="-0.125" y2="-1.6" layer="21"/>
-<rectangle x1="0.125" y1="-2" x2="0.375" y2="-1.6" layer="21"/>
-<rectangle x1="0.625" y1="-2" x2="0.875" y2="-1.6" layer="21"/>
-<rectangle x1="1.125" y1="-2" x2="1.375" y2="-1.6" layer="21"/>
-<smd name="1" x="-1.975" y="1.25" dx="0.85" dy="0.38" layer="1" stop="no" cream="no"/>
-<rectangle x1="-2.4" y1="-1.44" x2="-1.55" y2="-1.06" layer="29"/>
-<rectangle x1="-2.4" y1="-1.44" x2="-1.55" y2="-1.06" layer="31"/>
-<smd name="2" x="-1.975" y="0.75" dx="0.85" dy="0.38" layer="1" stop="no" cream="no"/>
-<rectangle x1="-2.4" y1="-0.94" x2="-1.55" y2="-0.56" layer="29"/>
-<rectangle x1="-2.4" y1="-0.94" x2="-1.55" y2="-0.56" layer="31"/>
-<smd name="3" x="-1.975" y="0.25" dx="0.85" dy="0.38" layer="1" stop="no" cream="no"/>
-<rectangle x1="-2.4" y1="-0.44" x2="-1.55" y2="-0.06" layer="29"/>
-<rectangle x1="-2.4" y1="-0.44" x2="-1.55" y2="-0.06" layer="31"/>
-<smd name="4" x="-1.975" y="-0.25" dx="0.85" dy="0.38" layer="1" stop="no" cream="no"/>
-<rectangle x1="-2.4" y1="0.06" x2="-1.55" y2="0.44" layer="29"/>
-<rectangle x1="-2.4" y1="0.06" x2="-1.55" y2="0.44" layer="31"/>
-<smd name="5" x="-1.975" y="-0.75" dx="0.85" dy="0.38" layer="1" stop="no" cream="no"/>
-<rectangle x1="-2.4" y1="0.56" x2="-1.55" y2="0.94" layer="29"/>
-<rectangle x1="-2.4" y1="0.56" x2="-1.55" y2="0.94" layer="31"/>
-<smd name="6" x="-1.975" y="-1.25" dx="0.85" dy="0.38" layer="1" stop="no" cream="no"/>
-<rectangle x1="-2.4" y1="1.06" x2="-1.55" y2="1.44" layer="29"/>
-<rectangle x1="-2.4" y1="1.06" x2="-1.55" y2="1.44" layer="31"/>
-<smd name="7" x="-1.25" y="-1.975" dx="0.85" dy="0.38" layer="1" rot="R90" stop="no" cream="no"/>
-<rectangle x1="-1.44" y1="1.55" x2="-1.06" y2="2.4" layer="29"/>
-<rectangle x1="-1.44" y1="1.55" x2="-1.06" y2="2.4" layer="31"/>
-<smd name="8" x="-0.75" y="-1.975" dx="0.85" dy="0.38" layer="1" rot="R90" stop="no" cream="no"/>
-<rectangle x1="-0.94" y1="1.55" x2="-0.56" y2="2.4" layer="29"/>
-<rectangle x1="-0.94" y1="1.55" x2="-0.56" y2="2.4" layer="31"/>
-<smd name="9" x="-0.25" y="-1.975" dx="0.85" dy="0.38" layer="1" rot="R90" stop="no" cream="no"/>
-<rectangle x1="-0.44" y1="1.55" x2="-0.06" y2="2.4" layer="29"/>
-<rectangle x1="-0.44" y1="1.55" x2="-0.06" y2="2.4" layer="31"/>
-<smd name="10" x="0.25" y="-1.975" dx="0.85" dy="0.38" layer="1" rot="R90" stop="no" cream="no"/>
-<rectangle x1="0.06" y1="1.55" x2="0.44" y2="2.4" layer="29"/>
-<rectangle x1="0.06" y1="1.55" x2="0.44" y2="2.4" layer="31"/>
-<smd name="11" x="0.75" y="-1.975" dx="0.85" dy="0.38" layer="1" rot="R90" stop="no" cream="no"/>
-<rectangle x1="0.56" y1="1.55" x2="0.94" y2="2.4" layer="29"/>
-<rectangle x1="0.56" y1="1.55" x2="0.94" y2="2.4" layer="31"/>
-<smd name="12" x="1.25" y="-1.975" dx="0.85" dy="0.38" layer="1" rot="R90" stop="no" cream="no"/>
-<rectangle x1="1.06" y1="1.55" x2="1.44" y2="2.4" layer="29"/>
-<rectangle x1="1.06" y1="1.55" x2="1.44" y2="2.4" layer="31"/>
-<smd name="13" x="1.975" y="-1.25" dx="0.85" dy="0.38" layer="1" rot="R180" stop="no" cream="no"/>
-<rectangle x1="1.55" y1="-1.44" x2="2.4" y2="-1.06" layer="29"/>
-<rectangle x1="1.55" y1="-1.44" x2="2.4" y2="-1.06" layer="31"/>
-<smd name="14" x="1.975" y="-0.75" dx="0.85" dy="0.38" layer="1" rot="R180" stop="no" cream="no"/>
-<rectangle x1="1.55" y1="-0.94" x2="2.4" y2="-0.56" layer="29"/>
-<rectangle x1="1.55" y1="-0.94" x2="2.4" y2="-0.56" layer="31"/>
-<smd name="15" x="1.975" y="-0.25" dx="0.85" dy="0.38" layer="1" rot="R180" stop="no" cream="no"/>
-<rectangle x1="1.55" y1="-0.44" x2="2.4" y2="-0.06" layer="29"/>
-<rectangle x1="1.55" y1="-0.44" x2="2.4" y2="-0.06" layer="31"/>
-<smd name="16" x="1.975" y="0.25" dx="0.85" dy="0.38" layer="1" rot="R180" stop="no" cream="no"/>
-<rectangle x1="1.55" y1="0.06" x2="2.4" y2="0.44" layer="29"/>
-<rectangle x1="1.55" y1="0.06" x2="2.4" y2="0.44" layer="31"/>
-<smd name="17" x="1.975" y="0.75" dx="0.85" dy="0.38" layer="1" rot="R180" stop="no" cream="no"/>
-<rectangle x1="1.55" y1="0.56" x2="2.4" y2="0.94" layer="29"/>
-<rectangle x1="1.55" y1="0.56" x2="2.4" y2="0.94" layer="31"/>
-<smd name="18" x="1.975" y="1.25" dx="0.85" dy="0.38" layer="1" rot="R180" stop="no" cream="no"/>
-<rectangle x1="1.55" y1="1.06" x2="2.4" y2="1.44" layer="29"/>
-<rectangle x1="1.55" y1="1.06" x2="2.4" y2="1.44" layer="31"/>
-<smd name="19" x="1.25" y="1.975" dx="0.85" dy="0.38" layer="1" rot="R270" stop="no" cream="no"/>
-<rectangle x1="-1.44" y1="-2.4" x2="-1.06" y2="-1.55" layer="29"/>
-<rectangle x1="-1.44" y1="-2.4" x2="-1.06" y2="-1.55" layer="31"/>
-<smd name="20" x="0.75" y="1.975" dx="0.85" dy="0.38" layer="1" rot="R270" stop="no" cream="no"/>
-<rectangle x1="-0.94" y1="-2.4" x2="-0.56" y2="-1.55" layer="29"/>
-<rectangle x1="-0.94" y1="-2.4" x2="-0.56" y2="-1.55" layer="31"/>
-<smd name="21" x="0.25" y="1.975" dx="0.85" dy="0.38" layer="1" rot="R270" stop="no" cream="no"/>
-<rectangle x1="-0.44" y1="-2.4" x2="-0.06" y2="-1.55" layer="29"/>
-<rectangle x1="-0.44" y1="-2.4" x2="-0.06" y2="-1.55" layer="31"/>
-<smd name="22" x="-0.25" y="1.975" dx="0.85" dy="0.38" layer="1" rot="R270" stop="no" cream="no"/>
-<rectangle x1="0.06" y1="-2.4" x2="0.44" y2="-1.55" layer="29"/>
-<rectangle x1="0.06" y1="-2.4" x2="0.44" y2="-1.55" layer="31"/>
-<smd name="23" x="-0.75" y="1.975" dx="0.85" dy="0.38" layer="1" rot="R270" stop="no" cream="no"/>
-<rectangle x1="0.56" y1="-2.4" x2="0.94" y2="-1.55" layer="29"/>
-<rectangle x1="0.56" y1="-2.4" x2="0.94" y2="-1.55" layer="31"/>
-<smd name="24" x="-1.25" y="1.975" dx="0.85" dy="0.38" layer="1" rot="R270" stop="no" cream="no"/>
-<rectangle x1="1.06" y1="-2.4" x2="1.44" y2="-1.55" layer="29"/>
-<rectangle x1="1.06" y1="-2.4" x2="1.44" y2="-1.55" layer="31"/>
-<rectangle x1="-2" y1="0" x2="0" y2="2" layer="51"/>
-</package>
-</packages>
-</library>
-<library name="esp8266modules">
-=======
 <library name="con-lstb">
 <description>&lt;b&gt;Pin Headers&lt;/b&gt;&lt;p&gt;
 Naming:&lt;p&gt;
@@ -1441,7 +1248,6 @@ MA = male&lt;p&gt;
 # contacts - # rows&lt;p&gt;
 W = angled&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 <packages>
 <package name="MA04-1">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
@@ -1926,47 +1732,6 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<element name="R1" library="rcl" package="R0805" value="" x="-45.72" y="54.61"/>
-<element name="R2" library="rcl" package="R0805" value="" x="-15.24" y="62.23"/>
-<element name="R3" library="rcl" package="R0805" value="" x="-20.32" y="62.23"/>
-<element name="R4" library="rcl" package="R0805" value="" x="-25.4" y="62.23"/>
-<element name="R5" library="rcl" package="R0805" value="" x="-30.48" y="62.23"/>
-<element name="R6" library="rcl" package="R0805" value="" x="-35.56" y="62.23"/>
-<element name="R7" library="rcl" package="R0805" value="" x="-40.64" y="62.23"/>
-<element name="R8" library="rcl" package="R0805" value="" x="-45.72" y="62.23"/>
-<element name="R9" library="rcl" package="R0805" value="" x="-15.24" y="67.31"/>
-<element name="U$1" library="GeekAmmo" package="SOT23-3" value="N-CHANNEL-MOSFET-BSS138" x="-35.56" y="34.29">
-<attribute name="OTHER" value="" x="-35.56" y="34.29" size="1.778" layer="27" display="off"/>
-<attribute name="ELEMENT14" value="2323154" x="-35.56" y="34.29" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY" value="BSS138TR-ND" x="-35.56" y="34.29" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET" value="http://www.fairchildsemi.com/ds/BS/BSS138.pdf" x="-35.56" y="34.29" size="1.778" layer="27" display="off"/>
-<attribute name="URL" value="http://au.element14.com/fairchild-semiconductor/bss138/mosfet-n-ch-50v-220ma-sot-23/dp/2323154" x="-35.56" y="34.29" size="1.778" layer="27" display="off"/>
-</element>
-<element name="U$2" library="GeekAmmo" package="SOT23-3" value="N-CHANNEL-MOSFET-BSS138" x="-35.56" y="41.91">
-<attribute name="OTHER" value="" x="-35.56" y="41.91" size="1.778" layer="27" display="off"/>
-<attribute name="ELEMENT14" value="2323154" x="-35.56" y="41.91" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY" value="BSS138TR-ND" x="-35.56" y="41.91" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET" value="http://www.fairchildsemi.com/ds/BS/BSS138.pdf" x="-35.56" y="41.91" size="1.778" layer="27" display="off"/>
-<attribute name="URL" value="http://au.element14.com/fairchild-semiconductor/bss138/mosfet-n-ch-50v-220ma-sot-23/dp/2323154" x="-35.56" y="41.91" size="1.778" layer="27" display="off"/>
-</element>
-<element name="U$3" library="GeekAmmo" package="SOT23-3" value="N-CHANNEL-MOSFET-BSS138" x="-35.56" y="49.53">
-<attribute name="OTHER" value="" x="-35.56" y="49.53" size="1.778" layer="27" display="off"/>
-<attribute name="ELEMENT14" value="2323154" x="-35.56" y="49.53" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY" value="BSS138TR-ND" x="-35.56" y="49.53" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET" value="http://www.fairchildsemi.com/ds/BS/BSS138.pdf" x="-35.56" y="49.53" size="1.778" layer="27" display="off"/>
-<attribute name="URL" value="http://au.element14.com/fairchild-semiconductor/bss138/mosfet-n-ch-50v-220ma-sot-23/dp/2323154" x="-35.56" y="49.53" size="1.778" layer="27" display="off"/>
-</element>
-<element name="U$4" library="GeekAmmo" package="SOT23-3" value="N-CHANNEL-MOSFET-BSS138" x="-35.56" y="57.15">
-<attribute name="OTHER" value="" x="-35.56" y="57.15" size="1.778" layer="27" display="off"/>
-<attribute name="ELEMENT14" value="2323154" x="-35.56" y="57.15" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY" value="BSS138TR-ND" x="-35.56" y="57.15" size="1.778" layer="27" display="off"/>
-<attribute name="DATASHEET" value="http://www.fairchildsemi.com/ds/BS/BSS138.pdf" x="-35.56" y="57.15" size="1.778" layer="27" display="off"/>
-<attribute name="URL" value="http://au.element14.com/fairchild-semiconductor/bss138/mosfet-n-ch-50v-220ma-sot-23/dp/2323154" x="-35.56" y="57.15" size="1.778" layer="27" display="off"/>
-</element>
-<element name="U$5" library="invensense" package="QFN.24.4X4" value="MPU-6050" x="6.35" y="60.96"/>
-<element name="U1" library="esp8266modules" package="ESP12E-SMD" value="" x="20.32" y="72.39"/>
-=======
 <element name="U1" library="esp8266modules" package="ESP12E-SMD" value="" x="26.67" y="52.07"/>
 <element name="R1" library="rcl" package="R0805" value="10K" x="15.494" y="52.705" rot="R270"/>
 <element name="R2" library="rcl" package="R0805" value="" x="-40.64" y="55.88"/>
@@ -2049,20 +1814,14 @@ design rules under a new name.</description>
 <element name="U$4" library="headers(.05in)" package="1X2" value="1X2" x="36.576" y="41.148"/>
 <element name="U$5" library="headers(.05in)" package="1X2" value="1X2" x="16.554" y="41.161" rot="R180"/>
 <element name="U$6" library="headers(.05in)" package="1X2" value="1X2" x="15.367" y="57.912" rot="R180"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 </elements>
 <signals>
 <signal name="N$1">
 <contactref element="U1" pad="RESET"/>
 <contactref element="R1" pad="1"/>
 <contactref element="U1" pad="CH_PD"/>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<wire x1="12.02" y1="78.19" x2="12.02" y2="74.19" width="0" layer="19" extent="1-1"/>
-<wire x1="-46.67" y1="54.61" x2="12.02" y2="78.19" width="0" layer="19" extent="1-1"/>
-=======
 <wire x1="18.37" y1="53.87" x2="18.37" y2="57.87" width="0" layer="19" extent="1-1"/>
 <wire x1="15.494" y1="53.655" x2="18.37" y2="53.87" width="0" layer="19" extent="1-1"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 </signal>
 <signal name="VCC">
 <contactref element="R1" pad="2"/>
@@ -2081,21 +1840,11 @@ design rules under a new name.</description>
 <contactref element="C5" pad="1"/>
 <contactref element="C6" pad="1"/>
 <contactref element="U1" pad="VCC"/>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<contactref element="U$5" pad="13"/>
-<contactref element="U$5" pad="8"/>
-<wire x1="5.6" y1="58.985" x2="12.02" y2="64.19" width="0" layer="19" extent="1-1"/>
-<wire x1="8.325" y1="59.71" x2="5.6" y2="58.985" width="0" layer="19" extent="1-1"/>
-<wire x1="-44.77" y1="54.61" x2="5.6" y2="58.985" width="0" layer="19" extent="1-1"/>
-=======
 <contactref element="R18" pad="2"/>
 <contactref element="R17" pad="2"/>
 <contactref element="C7" pad="1"/>
 <contactref element="C8" pad="1"/>
 <contactref element="C9" pad="1"/>
-<contactref element="U1" pad="GPIO2"/>
-<contactref element="R2" pad="1"/>
-<wire x1="33.671" y1="39.116" x2="34.77" y2="47.87" width="0" layer="19" extent="1-1"/>
 <wire x1="32.8629" y1="37.145" x2="33.671" y2="39.116" width="0" layer="19" extent="1-1"/>
 <wire x1="28.321" y1="38.689" x2="32.8629" y2="37.145" width="0" layer="19" extent="1-1"/>
 <wire x1="23.438" y1="35.199" x2="28.321" y2="38.689" width="0" layer="19" extent="1-1"/>
@@ -2112,12 +1861,10 @@ design rules under a new name.</description>
 <wire x1="-32.75" y1="52.07" x2="-28.26" y2="55.88" width="0" layer="19" extent="1-1"/>
 <wire x1="-37.83" y1="52.07" x2="-32.75" y2="52.07" width="0" layer="19" extent="1-1"/>
 <wire x1="-42.91" y1="52.07" x2="-37.83" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-41.59" y1="55.88" x2="-42.91" y2="52.07" width="0" layer="19" extent="1-1"/>
 <wire x1="-47.99" y1="52.07" x2="-42.91" y2="52.07" width="0" layer="19" extent="1-1"/>
 <wire x1="-51.8" y1="46.99" x2="-47.99" y2="52.07" width="0" layer="19" extent="1-1"/>
 <wire x1="-52.39" y1="33.02" x2="-51.8" y2="46.99" width="0" layer="19" extent="1-1"/>
 <wire x1="-46.04" y1="33.02" x2="-52.39" y2="33.02" width="0" layer="19" extent="1-1"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 </signal>
 <signal name="ADC">
 <contactref element="U1" pad="ADC"/>
@@ -2128,15 +1875,6 @@ design rules under a new name.</description>
 </signal>
 <signal name="I2C_SDA">
 <contactref element="U1" pad="GPIO12"/>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<contactref element="U$5" pad="24"/>
-<wire x1="5.1" y1="62.935" x2="12.02" y2="68.19" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="I2C_SCL">
-<contactref element="U1" pad="GPIO13"/>
-<contactref element="U$5" pad="23"/>
-<wire x1="5.6" y1="62.935" x2="12.02" y2="66.19" width="0" layer="19" extent="1-1"/>
-=======
 <contactref element="R17" pad="1"/>
 <contactref element="IC1" pad="3"/>
 <contactref element="U$1" pad="24"/>
@@ -2164,7 +1902,6 @@ design rules under a new name.</description>
 <wire x1="18.315" y1="45.925" x2="18.37" y2="45.87" width="0.3" layer="1"/>
 <wire x1="16.221" y1="38.104" x2="20.713" y2="38.424" width="0" layer="19" extent="1-1"/>
 <wire x1="-54.29" y1="33.02" x2="14.175" y2="40.15" width="0" layer="19" extent="1-1"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 </signal>
 <signal name="TX">
 <contactref element="U1" pad="TXD0"/>
@@ -2178,19 +1915,6 @@ design rules under a new name.</description>
 </signal>
 <signal name="PWM0">
 <contactref element="U1" pad="GPIO5"/>
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<contactref element="R2" pad="2"/>
-<contactref element="R3" pad="1"/>
-<wire x1="-21.27" y1="62.23" x2="-14.29" y2="62.23" width="0" layer="19" extent="1-1"/>
-<wire x1="28.42" y1="74.19" x2="-14.29" y2="62.23" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PWM1">
-<contactref element="U1" pad="GPIO4"/>
-<contactref element="R4" pad="2"/>
-<contactref element="R5" pad="1"/>
-<wire x1="-31.43" y1="62.23" x2="-24.45" y2="62.23" width="0" layer="19" extent="1-1"/>
-<wire x1="28.42" y1="72.19" x2="-24.45" y2="62.23" width="0" layer="19" extent="1-1"/>
-=======
 <contactref element="R3" pad="1"/>
 <contactref element="R7" pad="2"/>
 <wire x1="32.192" y1="55.118" x2="32.192" y2="52.959" width="0.5" layer="16"/>
@@ -2208,85 +1932,13 @@ design rules under a new name.</description>
 <wire x1="30.236" y1="44.514" x2="30.075" y2="44.675" width="0.5" layer="16"/>
 <wire x1="30.075" y1="44.675" x2="32.225" y2="44.475" width="0.5" layer="16"/>
 <wire x1="32.225" y1="44.475" x2="31.87" y2="41.77" width="0" layer="19" extent="1-16"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 </signal>
 <signal name="BOOT">
 <contactref element="U1" pad="GPIO0"/>
 <contactref element="SV1" pad="2"/>
-<contactref element="R2" pad="2"/>
 <wire x1="34.77" y1="49.87" x2="38.1" y2="49.911" width="0" layer="19" extent="1-1"/>
-<wire x1="-39.69" y1="55.88" x2="34.77" y2="49.87" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="PWM2">
-<<<<<<< HEAD:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.b##
-<contactref element="U1" pad="GPIO2"/>
-<contactref element="R6" pad="2"/>
-<contactref element="R7" pad="1"/>
-<wire x1="-41.59" y1="62.23" x2="-34.61" y2="62.23" width="0" layer="19" extent="1-1"/>
-<wire x1="28.42" y1="68.19" x2="-34.61" y2="62.23" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PWM3">
-<contactref element="U1" pad="GPIO15"/>
-<contactref element="R8" pad="2"/>
-<contactref element="R9" pad="1"/>
-<wire x1="-44.77" y1="62.23" x2="-16.19" y2="67.31" width="0" layer="19" extent="1-1"/>
-<wire x1="28.42" y1="66.19" x2="-16.19" y2="67.31" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="GND">
-<contactref element="U1" pad="GND"/>
-<contactref element="R3" pad="2"/>
-<contactref element="U$1" pad="2"/>
-<contactref element="R5" pad="2"/>
-<contactref element="U$2" pad="2"/>
-<contactref element="R7" pad="2"/>
-<contactref element="U$3" pad="2"/>
-<contactref element="R9" pad="2"/>
-<contactref element="U$4" pad="2"/>
-<contactref element="U$5" pad="18"/>
-<contactref element="U$5" pad="9"/>
-<wire x1="-19.37" y1="62.23" x2="-14.29" y2="67.31" width="0" layer="19" extent="1-1"/>
-<wire x1="-29.53" y1="62.23" x2="-19.37" y2="62.23" width="0" layer="19" extent="1-1"/>
-<wire x1="-34.61" y1="56.15" x2="-29.53" y2="62.23" width="0" layer="19" extent="1-1"/>
-<wire x1="8.325" y1="62.21" x2="-34.61" y2="56.15" width="0" layer="19" extent="1-1"/>
-<wire x1="6.1" y1="58.985" x2="8.325" y2="62.21" width="0" layer="19" extent="1-1"/>
-<wire x1="-39.69" y1="62.23" x2="8.325" y2="62.21" width="0" layer="19" extent="1-1"/>
-<wire x1="-34.61" y1="48.53" x2="-34.61" y2="56.15" width="0" layer="19" extent="1-1"/>
-<wire x1="-34.61" y1="40.91" x2="-34.61" y2="48.53" width="0" layer="19" extent="1-1"/>
-<wire x1="-34.61" y1="33.29" x2="-34.61" y2="40.91" width="0" layer="19" extent="1-1"/>
-<wire x1="28.42" y1="64.19" x2="-34.61" y2="33.29" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$2">
-<contactref element="R2" pad="1"/>
-<contactref element="U$1" pad="1"/>
-<wire x1="-36.51" y1="33.29" x2="-16.19" y2="62.23" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PWM0_MOTOR">
-<contactref element="U$1" pad="3"/>
-</signal>
-<signal name="N$4">
-<contactref element="R4" pad="1"/>
-<contactref element="U$2" pad="1"/>
-<wire x1="-36.51" y1="40.91" x2="-26.35" y2="62.23" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$6">
-<contactref element="R6" pad="1"/>
-<contactref element="U$3" pad="1"/>
-<wire x1="-36.51" y1="48.53" x2="-36.51" y2="62.23" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$8">
-<contactref element="R8" pad="1"/>
-<contactref element="U$4" pad="1"/>
-<wire x1="-46.67" y1="62.23" x2="-36.51" y2="56.15" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PWM1_MOTOR">
-<contactref element="U$2" pad="3"/>
-</signal>
-<signal name="PWM2_MOTOR">
-<contactref element="U$3" pad="3"/>
-</signal>
-<signal name="PWM3_MOTOR">
-<contactref element="U$4" pad="3"/>
-=======
 <contactref element="R5" pad="1"/>
 <contactref element="R10" pad="2"/>
 <contactref element="U1" pad="CS0"/>
@@ -2304,6 +1956,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="GND">
 <contactref element="U1" pad="GND"/>
+<contactref element="R2" pad="1"/>
 <contactref element="SV1" pad="1"/>
 <contactref element="T1" pad="2"/>
 <contactref element="T2" pad="2"/>
@@ -2340,6 +1993,30 @@ design rules under a new name.</description>
 <wire x1="29.977" y1="47.402" x2="30.875" y2="48.3" width="0.5" layer="16"/>
 <wire x1="30.875" y1="48.3" x2="34.6506" y2="48.3" width="0.5" layer="16"/>
 <wire x1="34.6506" y1="48.3" x2="35.7378" y2="47.2128" width="0.5" layer="16"/>
+<wire x1="30.875" y1="48.3" x2="30.292" y2="52.959" width="0" layer="19" extent="16-16"/>
+<wire x1="34.77" y1="43.87" x2="35.7378" y2="46.482" width="0" layer="19" extent="1-16"/>
+<wire x1="35.671" y1="39.116" x2="34.77" y2="43.87" width="0" layer="19" extent="1-1"/>
+<wire x1="37.592" y1="39.354" x2="35.671" y2="39.116" width="0" layer="19" extent="1-1"/>
+<wire x1="35.4631" y1="36.195" x2="35.671" y2="39.116" width="0" layer="19" extent="1-1"/>
+<wire x1="38.608" y1="32.385" x2="35.4631" y2="36.195" width="0" layer="19" extent="1-1"/>
+<wire x1="21.477" y1="50.783" x2="30.292" y2="52.959" width="0" layer="19" extent="16-16"/>
+<wire x1="13.808" y1="46.451" x2="21.477" y2="50.783" width="0" layer="19" extent="16-16"/>
+<wire x1="14.271" y1="36.953" x2="20.5418" y2="46.461" width="0" layer="19" extent="1-16"/>
+<wire x1="14.921" y1="35.353" x2="14.271" y2="36.953" width="0" layer="19" extent="1-1"/>
+<wire x1="23.438" y1="37.699" x2="14.921" y2="35.353" width="0" layer="19" extent="1-1"/>
+<wire x1="20.14" y1="32.185" x2="23.438" y2="37.699" width="0" layer="19" extent="1-1"/>
+<wire x1="-15.51" y1="52.07" x2="14.271" y2="36.953" width="0" layer="19" extent="1-1"/>
+<wire x1="-17.46" y1="55.88" x2="-15.51" y2="52.07" width="0" layer="19" extent="1-1"/>
+<wire x1="-20.59" y1="52.07" x2="-17.46" y2="55.88" width="0" layer="19" extent="1-1"/>
+<wire x1="-30.75" y1="52.07" x2="-20.59" y2="52.07" width="0" layer="19" extent="1-1"/>
+<wire x1="-35.83" y1="52.07" x2="-30.75" y2="52.07" width="0" layer="19" extent="1-1"/>
+<wire x1="-36.51" y1="55.88" x2="-35.83" y2="52.07" width="0" layer="19" extent="1-1"/>
+<wire x1="-41.59" y1="55.88" x2="-36.51" y2="55.88" width="0" layer="19" extent="1-1"/>
+<wire x1="-40.91" y1="52.07" x2="-41.59" y2="55.88" width="0" layer="19" extent="1-1"/>
+<wire x1="-45.99" y1="52.07" x2="-40.91" y2="52.07" width="0" layer="19" extent="1-1"/>
+<wire x1="-44.72" y1="46.99" x2="-45.99" y2="52.07" width="0" layer="19" extent="1-1"/>
+<wire x1="-49.8" y1="46.99" x2="-44.72" y2="46.99" width="0" layer="19" extent="1-1"/>
+<wire x1="-39.69" y1="33.02" x2="-44.72" y2="46.99" width="0" layer="19" extent="1-1"/>
 <wire x1="21.363" y1="57.1538" x2="20.7288" y2="57.1538" width="0.5" layer="16"/>
 <wire x1="20.7288" y1="57.1538" x2="20.075" y2="56.5" width="0.5" layer="16"/>
 <wire x1="20.075" y1="56.5" x2="20.075" y2="51.525" width="0.5" layer="16"/>
@@ -2358,31 +2035,6 @@ design rules under a new name.</description>
 <wire x1="14.25" y1="48" x2="13.875" y2="47.625" width="0.5" layer="16"/>
 <wire x1="13.875" y1="47.625" x2="13.875" y2="46.518" width="0.5" layer="16"/>
 <wire x1="13.875" y1="46.518" x2="13.808" y2="46.451" width="0.5" layer="16"/>
-<contactref element="U1" pad="GPIO15"/>
-<wire x1="30.875" y1="48.3" x2="30.233" y2="52.9" width="0" layer="19" extent="16-16"/>
-<wire x1="34.77" y1="45.87" x2="35.7378" y2="46.482" width="0" layer="19" extent="1-16"/>
-<wire x1="34.77" y1="43.87" x2="34.77" y2="45.87" width="0" layer="19" extent="1-1"/>
-<wire x1="35.671" y1="39.116" x2="34.77" y2="43.87" width="0" layer="19" extent="1-1"/>
-<wire x1="37.592" y1="39.354" x2="35.671" y2="39.116" width="0" layer="19" extent="1-1"/>
-<wire x1="35.4631" y1="36.195" x2="35.671" y2="39.116" width="0" layer="19" extent="1-1"/>
-<wire x1="38.608" y1="32.385" x2="35.4631" y2="36.195" width="0" layer="19" extent="1-1"/>
-<wire x1="21.363" y1="57.1538" x2="28.95" y2="58.525" width="0" layer="19" extent="16-16"/>
-<wire x1="20.1" y1="48" x2="20.675" y2="50.925" width="0" layer="19" extent="16-16"/>
-<wire x1="23.438" y1="37.699" x2="20.5418" y2="46.461" width="0" layer="19" extent="1-16"/>
-<wire x1="20.14" y1="32.185" x2="23.438" y2="37.699" width="0" layer="19" extent="1-1"/>
-<wire x1="14.921" y1="35.353" x2="20.14" y2="32.185" width="0" layer="19" extent="1-1"/>
-<wire x1="14.271" y1="36.953" x2="14.921" y2="35.353" width="0" layer="19" extent="1-1"/>
-<wire x1="-15.51" y1="52.07" x2="13.875" y2="47.625" width="0" layer="19" extent="1-16"/>
-<wire x1="-17.46" y1="55.88" x2="-15.51" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-20.59" y1="52.07" x2="-17.46" y2="55.88" width="0" layer="19" extent="1-1"/>
-<wire x1="-30.75" y1="52.07" x2="-20.59" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-35.83" y1="52.07" x2="-30.75" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-36.51" y1="55.88" x2="-35.83" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-40.91" y1="52.07" x2="-35.83" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-45.99" y1="52.07" x2="-40.91" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-44.72" y1="46.99" x2="-45.99" y2="52.07" width="0" layer="19" extent="1-1"/>
-<wire x1="-49.8" y1="46.99" x2="-44.72" y2="46.99" width="0" layer="19" extent="1-1"/>
-<wire x1="-39.69" y1="33.02" x2="-44.72" y2="46.99" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$2">
 <contactref element="R3" pad="2"/>
@@ -2495,7 +2147,6 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$18">
 <via x="15.025" y="43.85" extent="1-16" drill="0.6" shape="square"/>
->>>>>>> 8fea59e6d04297455b0259c663cb2aa46af14a21:PCB/DIY-PCB_EAGLE/Esquematico_PCB_DIY_V1.brd
 </signal>
 </signals>
 </board>
