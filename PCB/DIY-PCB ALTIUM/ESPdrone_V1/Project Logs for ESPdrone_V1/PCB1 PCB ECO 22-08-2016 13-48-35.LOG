@@ -1,0 +1,16 @@
+Added Component: Designator=R9(6-0805_L)
+Added Pin To Net: NetName=PWM3 Pin=IC1-4
+Added Pin To Net: NetName=PWM2 Pin=IC1-5
+Added Pin To Net: NetName=NetC2_2 Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-15
+Added Pin To Net: NetName=PWM1 Pin=IC1-19
+Added Pin To Net: NetName=PWM0 Pin=IC1-20
+Added Pin To Net: NetName=NetC2_2 Pin=R9-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=VCC
+Added Pin To Net: NetName=ADC Pin=IC1-2
+Added Net: Name=ADC
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_1 Pin=R9-1
+Added Net: Name=NetIC1_1
+Added Member To Class: ClassName=Esquematico Member=Component R9 Res3

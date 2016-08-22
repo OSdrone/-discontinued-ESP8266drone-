@@ -1,0 +1,8 @@
+Added Component: Designator=R14(6-0805_L)
+Added Component: Designator=R15(6-0805_L)
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=ADC Pin=R14-2
+Added Pin To Net: NetName=ADC Pin=R15-1
+Added Pin To Net: NetName=VCC_BAT Pin=R15-2
+Added Member To Class: ClassName=Esquematico Member=Component R14 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R15 Res3

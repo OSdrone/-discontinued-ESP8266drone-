@@ -1,0 +1,87 @@
+Added Component: Designator=C1(6-0805_L)
+Added Component: Designator=C2(6-0805_L)
+Added Component: Designator=C3(6-0805_L)
+Added Component: Designator=IC1(ESP8266 ESP-12-E B)
+Added Component: Designator=L1(DIODE_SMC)
+Added Component: Designator=Q1(SOT23-3)
+Added Component: Designator=Q2(SOT23-3)
+Added Component: Designator=Q3(SOT23-3)
+Added Component: Designator=Q4(SOT23-3)
+Added Component: Designator=R1(6-0805_L)
+Added Component: Designator=R2(6-0805_L)
+Added Component: Designator=R3(6-0805_L)
+Added Component: Designator=R4(6-0805_L)
+Added Component: Designator=R5(6-0805_L)
+Added Component: Designator=R6(6-0805_L)
+Added Component: Designator=R7(6-0805_L)
+Added Component: Designator=R8(6-0805_L)
+Added Component: Designator=U1(MF05A_N)
+Added Component: Designator=U2(QFN50P400X400X95-25N)
+Added Component: Designator=U3(LGA-8_BMP280(Primary))
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC_BAT Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=MOTOR 0 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=MOTOR 1 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=MOTOR 2 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=MOTOR 3 Pin=Q4-3
+Added Pin To Net: NetName=PWM0 Pin=R1-1
+Added Pin To Net: NetName=PWM1 Pin=R2-1
+Added Pin To Net: NetName=PWM2 Pin=R3-1
+Added Pin To Net: NetName=PWM3 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=VCC_BAT Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VCC_BAT Pin=U1-3
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C3-2
+Added Pin To Net: NetName=NetC2_2 Pin=L1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-4
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-5
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R5-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R6-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R7-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=R4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R8-2
+Added Net: Name=NetQ4_2
+Added Member To Class: ClassName=Esquematico Member=Component C1 Cap
+Added Member To Class: ClassName=Esquematico Member=Component C2 Cap
+Added Member To Class: ClassName=Esquematico Member=Component C3 Cap
+Added Member To Class: ClassName=Esquematico Member=Component IC1 ESP8266 ESP-12-E
+Added Member To Class: ClassName=Esquematico Member=Component L1 Inductor Iron Dot
+Added Member To Class: ClassName=Esquematico Member=Component Q1 MOSFET-N
+Added Member To Class: ClassName=Esquematico Member=Component Q2 MOSFET-N
+Added Member To Class: ClassName=Esquematico Member=Component Q3 MOSFET-N
+Added Member To Class: ClassName=Esquematico Member=Component Q4 MOSFET-N
+Added Member To Class: ClassName=Esquematico Member=Component R1 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R2 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R3 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R4 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R5 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R6 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R7 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R8 Res3
+Added Member To Class: ClassName=Esquematico Member=Component U1 LM3671MF-3.3/NOPB
+Added Member To Class: ClassName=Esquematico Member=Component U2 MPU-6050
+Added Member To Class: ClassName=Esquematico Member=Component U3 BMP280

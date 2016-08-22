@@ -1,0 +1,29 @@
+Added Component: Designator=C?(6-0805_L)
+Added Component: Designator=C?(6-0805_L)
+Added Component: Designator=C?(6-0805_L)
+Added Component: Designator=L?(DIODE_SMC)
+Added Component: Designator=Q?(SOT23-3)
+Added Component: Designator=U?(MF05A_N)
+Added Component: Designator=U?(LGA-8_BMP280(Primary))
+Added Component: Designator=U?(QFN50P400X400X95-25N)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=MOTOR 0 Pin=Q?-1
+Added Net: Name=MOTOR 0
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-4
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=U?-5
+Added Net: Name=NetL?_1
+Added Pin To Net: NetName=VCC_BAT Pin=C?-2
+Added Pin To Net: NetName=VCC_BAT Pin=U?-1
+Added Pin To Net: NetName=VCC_BAT Pin=U?-3
+Added Net: Name=VCC_BAT
+Added Class: Name=Esquematico

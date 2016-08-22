@@ -1,0 +1,51 @@
+Added Component: Designator=Q?(SOT23-3)
+Added Component: Designator=Q?(SOT23-3)
+Added Component: Designator=Q?(SOT23-3)
+Added Component: Designator=R?(6-0805_L)
+Added Component: Designator=R?(6-0805_L)
+Added Component: Designator=R?(6-0805_L)
+Added Component: Designator=R?(6-0805_L)
+Added Component: Designator=R?(6-0805_L)
+Added Component: Designator=R?(6-0805_L)
+Added Component: Designator=R?(6-0805_L)
+Added Component: Designator=R?(6-0805_L)
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=MOTOR 1 Pin=Q?-3
+Added Net: Name=MOTOR 1
+Added Pin To Net: NetName=MOTOR 2 Pin=Q?-3
+Added Net: Name=MOTOR 2
+Added Pin To Net: NetName=MOTOR 3 Pin=Q?-3
+Added Net: Name=MOTOR 3
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-2
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=PWM0 Pin=R?-1
+Added Net: Name=PWM0
+Added Pin To Net: NetName=PWM1 Pin=R?-1
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=R?-1
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=R?-1
+Added Net: Name=PWM3
+Added Member To Class: ClassName=Esquematico Member=Component C? Cap
+Added Member To Class: ClassName=Esquematico Member=Component C? Cap
+Added Member To Class: ClassName=Esquematico Member=Component Q? MOSFET-N
+Added Member To Class: ClassName=Esquematico Member=Component Q? MOSFET-N
+Added Member To Class: ClassName=Esquematico Member=Component Q? MOSFET-N
+Added Member To Class: ClassName=Esquematico Member=Component R? Res3
+Added Member To Class: ClassName=Esquematico Member=Component R? Res3
+Added Member To Class: ClassName=Esquematico Member=Component R? Res3
+Added Member To Class: ClassName=Esquematico Member=Component R? Res3
+Added Member To Class: ClassName=Esquematico Member=Component R? Res3
+Added Member To Class: ClassName=Esquematico Member=Component R? Res3
+Added Member To Class: ClassName=Esquematico Member=Component R? Res3
+Added Member To Class: ClassName=Esquematico Member=Component R? Res3
+Added Member To Class: ClassName=Esquematico Member=Component U? MPU-6050
+Added Member To Class: ClassName=Esquematico Member=Component U? LM3671MF-3.3/NOPB

@@ -1,0 +1,12 @@
+Remove Pin=IC1-4 From Net=PWM3
+Remove Pin=IC1-5 From Net=PWM2
+Remove Pin=IC1-19 From Net=PWM1
+Remove Pin=IC1-20 From Net=PWM0
+Change Component Footprint: Designator=R1 Old Footprint=6-0805_L New Footprint=6-0805_N
+Change Component Footprint: Designator=R2 Old Footprint=6-0805_L New Footprint=6-0805_N
+Change Component Footprint: Designator=R3 Old Footprint=6-0805_L New Footprint=6-0805_N
+Change Component Footprint: Designator=R4 Old Footprint=6-0805_L New Footprint=6-0805_N
+Change Component Footprint: Designator=R5 Old Footprint=6-0805_L New Footprint=6-0805_N
+Change Component Footprint: Designator=R6 Old Footprint=6-0805_L New Footprint=6-0805_N
+Change Component Footprint: Designator=R7 Old Footprint=6-0805_L New Footprint=6-0805_N
+Change Component Footprint: Designator=R8 Old Footprint=6-0805_L New Footprint=6-0805_N

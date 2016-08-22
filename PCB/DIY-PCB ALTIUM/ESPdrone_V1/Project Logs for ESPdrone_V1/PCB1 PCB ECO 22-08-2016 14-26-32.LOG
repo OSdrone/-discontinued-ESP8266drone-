@@ -1,0 +1,22 @@
+Added Component: Designator=P5(MHDR1X4)
+Added Component: Designator=R10(6-0805_L)
+Added Component: Designator=R11(6-0805_L)
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=BOOT Pin=IC1-18
+Added Pin To Net: NetName=BOOT Pin=P5-3
+Added Pin To Net: NetName=BOOT Pin=R11-2
+Added Net: Name=BOOT
+Added Pin To Net: NetName=NetIC1_16 Pin=IC1-16
+Added Pin To Net: NetName=NetIC1_16 Pin=R10-2
+Added Net: Name=NetIC1_16
+Added Pin To Net: NetName=RX Pin=IC1-21
+Added Pin To Net: NetName=RX Pin=P5-2
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=IC1-22
+Added Pin To Net: NetName=TX Pin=P5-1
+Added Net: Name=TX
+Added Member To Class: ClassName=Esquematico Member=Component P5 MHDR1X4
+Added Member To Class: ClassName=Esquematico Member=Component R10 Res3
+Added Member To Class: ClassName=Esquematico Member=Component R11 Res3
