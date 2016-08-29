@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PWM3 Pin=IC1-4
+Removed Pin From Net: NetName=PWM2 Pin=IC1-5
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Member From Class: ClassName=Esquematico Member=R10
+Added Pin To Net: NetName=PWM3 Pin=IC1-5
+Added Pin To Net: NetName=PWM2 Pin=IC1-16

@@ -1,0 +1,8 @@
+Added Component: Designator=D1(SOD323)
+Added Component: Designator=D2(SOD323)
+Added Component: Designator=D3(SOD323)
+Added Component: Designator=D4(SOD323)
+Added Member To Class: ClassName=Esquematico Member=Component D1 Diode 1N4148
+Added Member To Class: ClassName=Esquematico Member=Component D2 Diode 1N4148
+Added Member To Class: ClassName=Esquematico Member=Component D3 Diode 1N4148
+Added Member To Class: ClassName=Esquematico Member=Component D4 Diode 1N4148
