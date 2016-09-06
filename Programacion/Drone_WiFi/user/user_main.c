@@ -134,6 +134,9 @@ void user_init(void)
 {
     printf("SDK version:%s\n", system_get_sdk_version());
 	
+	// esp_conn initialization
+	espconn_init();
+	
 	//Tarea_Control
 	vSemaphoreCreateBinary(SEMAPHORE_Control);
 	xTaskCreate(Control_TASK_FCN, "TAREA CONTROL", 1, NULL, Task_control_priority, &TASK_Control);
